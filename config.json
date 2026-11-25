@@ -77,6 +77,25 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "sqlite-library-api",
+      "title": "SQLite Library API",
+      "description": "Persist FastAPI library data with SQLite, SQL CRUD operations, validation, and HTTP error handling",
+      "path": "assignments/sqlite-library-api",
+      "dueDate": "2026-12-02",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Python Requirements",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
